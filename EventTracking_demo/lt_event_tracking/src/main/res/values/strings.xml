@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EventTracking</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="facebook_app_id">401357020666873</string>
+    <string name="fb_login_protocol_scheme">fb401357020666873</string>
+</resources>

@@ -1,0 +1,12 @@
+
+# 服务器地址信息
+LtsdkServerName=10.80.5.71:88
+
+# 是否使用FaceBook事件sdk
+UseFacebookEventSdk=true
+
+# FackBook事件sdk是否为调试模式
+FaceBook_EventSDK_isDebugMode=false
+
+
+

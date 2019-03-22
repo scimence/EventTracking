@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: lt_event_tracking-debug:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/lt_event_tracking-debug.aar/ee63c5436bbd8a4c2baf8d2f805641a2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/lt_event_tracking-debug.aar/ee63c5436bbd8a4c2baf8d2f805641a2/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
